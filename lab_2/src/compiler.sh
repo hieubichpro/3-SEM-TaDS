@@ -1,0 +1,1 @@
+gcc -std=c99 main.c menu.c print_info.c sorts.c file_work.c -o app.exe
